@@ -1,7 +1,8 @@
 
 
 <div class="app">
-	<Header>
+	<Header></Header>
+	<p>Sub header</p>
 
 	<main>
 		<slot></slot>
