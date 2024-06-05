@@ -2,6 +2,7 @@
 
 <div class="app">
 	<Header></Header>
+	<p>Sub header</p>
 
 	<main>
 		<slot></slot>
