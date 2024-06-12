@@ -1,7 +1,7 @@
 
 
 <div class="app">
-	<Header>
+	<Header></Header>
 
 	<main>
 		<slot></slot>
@@ -10,7 +10,7 @@
 	<footer>
 		<p>visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to learn SvelteKit</p>
 		<p>This is a new footer, it looks amazing.</p>
-		<p>But it could probably look even better.</p>
+		<p>changing things for the class to see the result</p> 
 	</footer>
 </div>
 
