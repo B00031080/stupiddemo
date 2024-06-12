@@ -2,10 +2,6 @@
 
 <div class="app">
 	<Header></Header>
-<<<<<<< HEAD
-=======
-	<p>Sub header</p>
->>>>>>> 6b362f64edadb6e6e8222b6caa9539ef71ac26a5
 
 	<main>
 		<slot></slot>
